@@ -1,0 +1,27 @@
+
+@font-face {
+    font-family: "Arista";
+    src: url("../fonts/Arista.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "OpenSans";
+    src: url("../fonts/OpenSansRegular/OpenSansRegular.eot");
+    src: url("../fonts/OpenSansRegular/OpenSansRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+    url("../fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RobotoCondensedRegular"; */
+@font-face {
+    font-family: "Roboto_Condensed";
+    src: url("../fonts/RobotoCondensedRegular/RobotoCondensedRegular.eot");
+    src: url("../fonts/RobotoCondensedRegular/RobotoCondensedRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/RobotoCondensedRegular/RobotoCondensedRegular.woff") format("woff"),
+    url("../fonts/RobotoCondensedRegular/RobotoCondensedRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
